@@ -9,3 +9,4 @@ Aprofundando os fundamentos de html, css e javascript.
 
 - Contador de números
 - tabuada
+- Analizador de números
